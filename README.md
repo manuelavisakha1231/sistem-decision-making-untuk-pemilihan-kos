@@ -1,0 +1,2 @@
+# sistem-decision-making-untuk-pemilihan-kos
+Banyak mahasiswa Universitas Negeri Yogyakarta dari luar daerah yang mengalami  kesulitan dalam memilih tempat tinggal kost dikarenakan banyaknya pertimbangan dari  aspek biaya,fasilitas dan lokasi,diikuti banyaknya tempat tinggal kost yang memberi  penawaran harga, fasilitas dan lokasi yang berbeda akan membuat bingung mahasiswa  dalam memutuskan tempat yang akan mereka tinggali.
